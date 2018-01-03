@@ -1014,5 +1014,15 @@ namespace NiceHashMiner
 
             UpdateGlobalRate();
         }
+
+        private void Form_Main_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripStatusLabelBalanceText_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
