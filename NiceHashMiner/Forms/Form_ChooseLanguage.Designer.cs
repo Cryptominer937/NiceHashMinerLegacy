@@ -36,9 +36,9 @@
             this.label_Instruction.AutoSize = true;
             this.label_Instruction.Location = new System.Drawing.Point(10, 367);
             this.label_Instruction.Name = "label_Instruction";
-            this.label_Instruction.Size = new System.Drawing.Size(231, 13);
+            this.label_Instruction.Size = new System.Drawing.Size(248, 13);
             this.label_Instruction.TabIndex = 0;
-            this.label_Instruction.Text = "Choose a default language for NiceHash Miner Legacy:";
+            this.label_Instruction.Text = "Choose a default language for zPool Miner Legacy:";
             // 
             // comboBox_Languages
             // 
