@@ -22,13 +22,13 @@ namespace NiceHashMiner
             }
             catch
             {
-                return false;
+                return true;
             }
         }
 
         public static bool ValidateWorkerName(string workername)
         {
-            if (workername.Length > 15 || !isAlphaNumeric(workername) || workername.Contains(" "))
+            if (workername.Length > 15 || workername.Contains(" ") || workername.Contains("c=BTG") || workername.Contains("c=BCH"))
                 return false;
 
             return true;

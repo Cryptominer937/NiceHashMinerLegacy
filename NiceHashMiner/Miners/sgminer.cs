@@ -62,7 +62,7 @@ namespace NiceHashMiner.Miners
             LastCommandLine = " --gpu-platform " + GPUPlatformNumber +
                               " -k " + MiningSetup.MinerName +
                               " --url=" + url +
-                              " --userpass=" + username +
+                              " --userpass=" + worker +
                               " -p " + worker +
                               " --api-listen" +
                               " --api-port=" + APIPort.ToString() +
