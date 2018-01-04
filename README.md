@@ -17,7 +17,7 @@
 zPool Miner Legacy is a continuation of Nicehash Miner Legacy. This version is intended for experienced miners who want the quickest updates and highest hashrates.
 
 
-<img src="Resources/ZpoolMinerLegacy.PNG" />
+<img src="Resources/ZpoolMinerLegacy.png" />
 
 Please follow us on Twitter <a href="https://twitter.com/MyCryptoCoinz" target="_blank">@MyCryptoCoinz</a> for updates on new versions and other important information.
 
