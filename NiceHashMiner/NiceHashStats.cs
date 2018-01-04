@@ -462,13 +462,13 @@ namespace NiceHashMiner
                 case "bitcore":
                 case "blakecoin":
                 case "blake2s":
+                case "keccak":
                     return 1;
                 case "equihash": return 1e6m;
                 case "sha256":
                 case "x11":
                 case "quark":
                 case "qubit":
-                case "keccak":
                     return 1e-3m;
                 default: return 1e3m;
             }
