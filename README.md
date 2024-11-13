@@ -1,1 +1,1 @@
-Future Releases at https://github.com/Cryptominer937/zPoolMiner/releases
+Discontinued please use https://github.com/angelbbs/ZergPoolMinerLegacy
